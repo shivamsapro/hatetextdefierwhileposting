@@ -1,1 +1,2 @@
 # hatetextdefierwhileposting
+This project makes sure people on social media is polite and is not influenced by hate speech, it is different from it's brother project which lets you report the post after the post is published, hatetextdefierwhileposting check the content of the post using logistic regression comparing to the dataset of 50,000 lines of english excerpts and check if the content can be used for bullying or use political ideology and if the content if finds hateful, it  does not let the user  publish the post, the accuracy we attained was 97%.
